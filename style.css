@@ -1,0 +1,341 @@
+body{
+    background-color:#402E7A;
+}
+.header{
+    background-color: #4C3BCF;
+    color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header:hover{
+    background-color: #402E7A;
+    color: black;
+}
+.nameheader{
+    font-family:'Times New Roman', Times, serif;
+}
+.para{
+    font-size: larger;
+}
+.about-section:hover{
+    background-color:lightblue;
+    color: black;
+}
+.about-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image{
+    margin-top: 10px;
+}
+.bio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 500px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.skillsclass{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.skillsclass:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+.skillslist{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    /* gap: 5px; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.skillslist:hover{
+    background-color: #4B70F5;
+}
+.skills1{
+    height: 240px;
+    width:350px;
+    background-color: aliceblue;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skills2{
+    height: 240px;
+    width:350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.skills3{
+    height: 240px;
+    width:350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.skills4{
+    height: 240px;
+    width: 350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.skills5{
+    height: 240px;
+    width:350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.skills6{
+    height: 240px;
+    width:350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.skills7{
+    height: 240px;
+    width:350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.skills8{
+    height: 240px;
+    width:350px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.skills1:hover{
+    border: 2px solid black;
+}
+.skills2:hover{
+    border: 2px solid black;
+}
+.skills3:hover{
+    border: 2px solid black;
+}
+.skills4:hover{
+    border: 2px solid black;
+}
+.skills5:hover{
+    border: 2px solid black;
+}
+.skills6:hover{
+    border: 2px solid black;
+}
+.skills7:hover{
+    border: 2px solid black;
+}
+.skills8:hover{
+    border: 2px solid black;
+}
+.projectsclass{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.projectsclass:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+#first-pro{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+#first-pro:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.projectlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+.Amazon{
+    height: 240px;
+    width: 350px;
+    background-size: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.pro-text{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-right: 10px;
+    height: 240px;
+    width: 350;
+}
+.ptext{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: aqua;
+    text-decoration:underline;
+}
+
+.Ama-SS{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.Amazon:hover{
+    border-radius: 2px solid black;
+}
+#Second-pro{
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#Second-pro:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.projectlist2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+.pro-text2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-right: 10px;
+    height: 240px;
+    width: 350;
+}
+.ptext2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: aqua;
+    text-decoration:underline;
+}
+.InFO-SS{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 0;
+    background-color:#402E7A;
+}
+.body:hover{
+    background-color: #4B70F5;
+}
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+#re {
+    margin-bottom: 20px;
+}
+.download-link {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+.download-link:hover {
+    background-color: #0056b3;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#007bff;
+}
+.contact:hover{
+    background-color: #402E7A;
+}
+#info{
+    font-size: 20px;
+    font-weight: bolder;
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.address1{
+    font-size: 20px;
+    font-weight: bolder;
+    color: whitesmoke;
+}
+.footer:hover{
+    background-color: black;
+}
